@@ -35,3 +35,6 @@ h2{
     color: blue;
     text-decoration: underline;
 }
+.cb-photo ,h1 ,h2{
+    margin: 10px;
+}
